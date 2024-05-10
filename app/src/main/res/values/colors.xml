@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#800080</color> <!-- Purple -->
+    <color name="colorPrimaryDark">#9C27B0</color> <!-- Deep Purple -->
+    <color name="colorAccent">#FF4081</color> <!-- Pink -->
+    <color name="primary_white_text">#ffffff</color> <!-- White -->
+    <color name="grey_cc">#9E9E9E</color> <!-- Grey -->
+    <color name="grey_ee">#EEEEEE</color> <!-- Light Grey -->
+    <color name="activity_background">#EEEEEE</color> <!-- Light Grey -->
+    <color name="disconnect_red">#F44336</color> <!-- Red -->
+    <color name="progress">#00E676</color> <!-- Green -->
+    <color name="rate_us_bg">#E1BEE7</color> <!-- Light Purple -->
+    <color name="nav_draw_icon">#BDBDBD</color> <!-- Grey -->
+    <color name="textColor">#FF4081</color> <!-- Pink -->
+    <color name="transparent">#00000000</color> <!-- Transparent -->
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#C2185B</color> <!-- Pink -->
+    <color name="dot_dark_screen2">#009688</color> <!-- Teal -->
+    <color name="dot_dark_screen3">#2196F3</color> <!-- Blue -->
+    <color name="dot_dark_screen4">#673AB7</color> <!-- Deep Purple -->
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#E91E63</color> <!-- Pink -->
+    <color name="dot_light_screen2">#00BCD4</color> <!-- Cyan -->
+    <color name="dot_light_screen3">#2196F3</color> <!-- Blue -->
+    <color name="dot_light_screen4">#673AB7</color> <!-- Deep Purple -->
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="popUpBg">#ffffff</color> <!-- White -->
+    <color name="listDivider">#7986CB</color> <!-- Indigo -->
+
+    <color name="mapBackground">#81D4FA</color> <!-- Light Blue -->
+
+    <color name="toolbarTitle">#ffffff</color> <!-- White -->
+
+    <color name="buttonText">#ffffff</color> <!-- White -->
+    <color name="buttonBg">#512DA8</color> <!-- Deep Purple -->
+
+    <color name="activeServer">#ffffff</color> <!-- White -->
+    <color name="additionalServer">#FFF176</color> <!-- Yellow -->
+
+    <color name="colorwhite">#ffffff</color> <!-- White -->
+
+    <color name="red">#FF5722</color> <!-- Deep Orange -->
+    <color name="txt_blue">#1565C0</color> <!-- Dark Blue -->
+    <color name="txt_grey">#607D8B</color> <!-- Blue Grey -->
+
+</resources>
